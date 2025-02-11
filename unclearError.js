@@ -1,0 +1,1 @@
+The Firebase Realtime Database sometimes throws an error that is not very descriptive, making debugging difficult.  For example, you might get a generic error message like "Error: Database request failed" without any specific information about the cause. This happens when there is an issue with the database rules, network connectivity, or a problem with the data being written.
